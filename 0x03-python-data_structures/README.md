@@ -2,5 +2,5 @@
 
 | **List** | **Tupple** | **Sets** | **Dictionaries**
 | --------- | ------------- | --------- |
-| mutable | immutable | immutable | mutable
-| ordered | ordered | unoredered | unordered
+| mutable | immutable | immutable | mutable |
+| ordered | ordered | unoredered | unordered |

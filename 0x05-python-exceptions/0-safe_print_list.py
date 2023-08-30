@@ -1,5 +1,15 @@
 #!/usr/bin/python3
 def safe_print_list(my_list=[], x=0):
+    """Prints x-amount of element in a list
+
+    Args:
+    my_list - the list from which element
+    is printed
+    x - the number of element expected to
+    be printed
+
+    Return:
+    the amount of printed element"""
     elem_print = 0
     for i in range(x):
         try:
